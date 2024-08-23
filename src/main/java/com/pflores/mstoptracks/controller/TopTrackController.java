@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
-@RequestMapping("/v1")
+@RequestMapping("/ms-top-tracks")
 @RestController
 public class TopTrackController {
 
